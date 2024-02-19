@@ -1,13 +1,12 @@
 import { Footer } from './../../components/Footer';
-import { ContactsList } from './../../components/ContactsList';
+import { ProjectDetails } from './../../components/ProjectDetails';
 
-export const Contacts = () => {
+export const Project = () => {
   return (
     <>
       <main className="section">
         <div className="container">
-          <h1 className="title-1">Contacts</h1>
-          <ContactsList />
+          <ProjectDetails />
         </div>
       </main>
       <Footer />

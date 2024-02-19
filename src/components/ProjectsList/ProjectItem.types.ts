@@ -1,7 +1,9 @@
 export interface IProjectItem {
   project: {
     id: number;
-    imgSrc: string;
+    img: string;
+    imgBig: string;
     title: string;
+    skills: string;
   };
 }
