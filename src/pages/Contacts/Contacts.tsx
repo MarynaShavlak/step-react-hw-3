@@ -1,5 +1,6 @@
 import { Navbar } from './../../components/Navbar';
 import { Footer } from './../../components/Footer';
+import { ContactsList } from './../../components/ContactsList';
 
 export const Contacts = () => {
   return (
@@ -7,7 +8,8 @@ export const Contacts = () => {
       <Navbar />
       <main className="section">
         <div className="container">
-          <h2 className="title-1">Projects</h2>
+          <h1 className="title-1">Contacts</h1>
+          <ContactsList />
         </div>
       </main>
       <Footer />
