@@ -1,16 +1,35 @@
 {
   "files": {
-    "main.css": "/step-react-hw-3/static/css/main.f855e6bc.css",
-    "main.js": "/step-react-hw-3/static/js/main.25f764ef.js",
+    "main.css": "/step-react-hw-3/static/css/main.10faa4e5.css",
+    "main.js": "/step-react-hw-3/static/js/main.2a67dccd.js",
     "static/js/453.f89f3990.chunk.js": "/step-react-hw-3/static/js/453.f89f3990.chunk.js",
-    "static/media/logo.svg": "/step-react-hw-3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/04-big.jpg": "/step-react-hw-3/static/media/04-big.9dc8caf822c4a4116af4.jpg",
+    "static/media/01-big.jpg": "/step-react-hw-3/static/media/01-big.ecb03349664096d93b17.jpg",
+    "static/media/03-big.jpg": "/step-react-hw-3/static/media/03-big.42d4e6c6843189e73fd2.jpg",
+    "static/media/05-big.jpg": "/step-react-hw-3/static/media/05-big.f315645c87f1dfe5c2c6.jpg",
+    "static/media/02-big.jpg": "/step-react-hw-3/static/media/02-big.55e8268286a008f0aa84.jpg",
+    "static/media/06-big.jpg": "/step-react-hw-3/static/media/06-big.51b90ae43fdfcf0ab077.jpg",
+    "static/media/04.jpg": "/step-react-hw-3/static/media/04.da38cca11cede6d4ef43.jpg",
+    "static/media/01.jpg": "/step-react-hw-3/static/media/01.793b5447d182a00fa739.jpg",
+    "static/media/03.jpg": "/step-react-hw-3/static/media/03.a1f0cefe3665b6313065.jpg",
+    "static/media/05.jpg": "/step-react-hw-3/static/media/05.497e1d12eb46a0b52271.jpg",
+    "static/media/06.jpg": "/step-react-hw-3/static/media/06.86ff2b3c4326d053ac65.jpg",
+    "static/media/02.jpg": "/step-react-hw-3/static/media/02.97324eaa701fadea307f.jpg",
+    "static/media/header-bg.png": "/step-react-hw-3/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/step-react-hw-3/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/step-react-hw-3/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/step-react-hw-3/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/step-react-hw-3/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/step-react-hw-3/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/twitter.svg": "/step-react-hw-3/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/step-react-hw-3/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/step-react-hw-3/index.html",
-    "main.f855e6bc.css.map": "/step-react-hw-3/static/css/main.f855e6bc.css.map",
-    "main.25f764ef.js.map": "/step-react-hw-3/static/js/main.25f764ef.js.map",
+    "main.10faa4e5.css.map": "/step-react-hw-3/static/css/main.10faa4e5.css.map",
+    "main.2a67dccd.js.map": "/step-react-hw-3/static/js/main.2a67dccd.js.map",
     "453.f89f3990.chunk.js.map": "/step-react-hw-3/static/js/453.f89f3990.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.25f764ef.js"
+    "static/css/main.10faa4e5.css",
+    "static/js/main.2a67dccd.js"
   ]
 }
