@@ -1,4 +1,3 @@
-import { Footer } from './../../components/Footer';
 import { ContactsList } from './../../components/ContactsList';
 
 export const Contacts = () => {
@@ -10,7 +9,6 @@ export const Contacts = () => {
           <ContactsList />
         </div>
       </main>
-      <Footer />
     </>
   );
 };

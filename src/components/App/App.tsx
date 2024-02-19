@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import '../../styles/main.css';
 import './App.css';
 import { Home } from '../../pages/Home';
@@ -15,6 +15,7 @@ export const App = () => {
         <Route path="/contacts" element={<Contacts />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/projects/:projectId" element={<Project />} />
+        <Route path="*" element={<Home />} />
       </Route>
     </Routes>
   );

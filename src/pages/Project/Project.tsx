@@ -1,4 +1,3 @@
-import { Footer } from './../../components/Footer';
 import { ProjectDetails } from './../../components/ProjectDetails';
 
 export const Project = () => {
@@ -9,7 +8,6 @@ export const Project = () => {
           <ProjectDetails />
         </div>
       </main>
-      <Footer />
     </>
   );
 };

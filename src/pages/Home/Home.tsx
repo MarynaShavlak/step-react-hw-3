@@ -1,12 +1,9 @@
 import { Header } from '../../components/Header';
-import { Footer } from './../../components/Footer';
 
 export const Home = () => {
   return (
     <>
-      {/* <Navbar /> */}
       <Header />
-
       <main className="section">
         <div className="container">
           <ul className="content-list">
@@ -24,7 +21,6 @@ export const Home = () => {
           </ul>
         </div>
       </main>
-      <Footer />
     </>
   );
 };

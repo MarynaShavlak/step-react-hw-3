@@ -3,13 +3,15 @@ import ReactDOM from 'react-dom/client';
 import { App } from './components/App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router } from 'react-router-dom';
+import { ScrollToTop } from './utils/scrollToTop';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement,
 );
 root.render(
   <React.StrictMode>
-    <Router basename="/step-react-hw-3">
+    <Router basename="/step-react-hw-3/">
+      <ScrollToTop />
       <App />
     </Router>
   </React.StrictMode>,

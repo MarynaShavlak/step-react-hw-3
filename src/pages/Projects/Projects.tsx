@@ -1,5 +1,4 @@
 import { ProjectsList } from './../../components/ProjectsList';
-import { Footer } from './../../components/Footer';
 
 export const Projects = () => {
   return (
@@ -10,7 +9,6 @@ export const Projects = () => {
           <ProjectsList />;
         </div>
       </main>
-      <Footer />
     </>
   );
 };
